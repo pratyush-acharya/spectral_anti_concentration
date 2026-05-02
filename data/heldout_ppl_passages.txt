@@ -1,0 +1,109 @@
+Robert Boyle was an Anglo-Irish natural philosopher, chemist, physicist, and inventor. He is
+largely regarded as the first modern chemist, and therefore one of the founders of modern
+chemistry. Among his works, The Sceptical Chymist is seen as a cornerstone book in the field
+of chemistry. He was noted for his writings in theology as well. Boyle was born at Lismore
+Castle in County Waterford, Ireland, the seventh son and fourteenth child of Richard Boyle,
+the first Earl of Cork. After spending three years at Eton College, he traveled with a French
+tutor across continental Europe, spending more than two years visiting various parts of Italy.
+His father died in 1643, leaving him the manor of Stalbridge in Dorset and substantial estates
+in County Limerick in Ireland that he had inherited from his great friend Sir Walter Raleigh.
+
+The Amazon basin is the part of South America drained by the Amazon River and its tributaries.
+The basin is located in the countries of Brazil, Bolivia, Colombia, Ecuador, Guyana, Peru,
+Suriname, and Venezuela. The Amazon drains an area of some 6,300,000 square kilometres, or
+about 35.5 percent of the South American continent. The source of the Amazon is the Mantaro
+River in Peru, which merges with the Apurimac River and then becomes the Ene, the Tambo, and
+the Ucayali before joining the Maranon upstream of Iquitos. Because of the vast forest cover
+and the enormous amount of water flowing through the river system, the Amazon basin plays a
+critical role in regulating global climate patterns and carbon cycles. The river discharges
+roughly 209,000 cubic metres per second into the Atlantic Ocean.
+
+The printing press is a mechanical device for applying pressure to an inked surface resting
+upon a print medium, thereby transferring the ink. It marked a dramatic improvement on earlier
+printing methods in which the cloth, paper, or other medium was brushed or rubbed repeatedly
+to achieve the transfer of ink and accelerated the process. Typically used for texts, the
+invention and global spread of the printing press was one of the most influential events in
+the second millennium, revolutionizing the way people conceived and described the world they
+lived in and ushering in the period of modernity. Johannes Gutenberg, a goldsmith by
+profession, developed the first printing press in the Holy Roman Empire around 1440. His
+introduction of mechanical movable type printing to Europe started the Printing Revolution
+and is regarded as a milestone of the second millennium.
+
+In mathematics, the Fourier transform decomposes a function of time into its constituent
+frequencies. The transform is closely related to the Fourier series, which represents a
+periodic function as a sum of complex exponentials. The Fourier transform generalizes this
+idea to non-periodic functions by allowing the period to tend to infinity. The transform has
+many applications in physics and engineering, particularly in signal processing, quantum
+mechanics, and the solution of partial differential equations. It was first introduced by
+Joseph Fourier in 1807 in his study of heat conduction, where he showed that arbitrary
+functions could be represented by trigonometric series. The discrete version of the transform,
+known as the discrete Fourier transform, is widely used in numerical computation and is
+efficiently implemented through the fast Fourier transform algorithm discovered by Cooley
+and Tukey in 1965.
+
+Photosynthesis is a process used by plants and other organisms to convert light energy into
+chemical energy that can be later released to fuel the organism's activities. This chemical
+energy is stored in carbohydrate molecules such as sugars and starches, which are synthesized
+from carbon dioxide and water. In most cases, oxygen is released as a waste product.
+Photosynthesis maintains atmospheric oxygen levels and supplies most of the biological energy
+necessary for complex life on Earth. The process involves two stages commonly known as the
+light-dependent reactions and the Calvin cycle. During the light-dependent reactions, which
+take place in the thylakoid membranes, water is split using light energy and oxygen is
+produced. The Calvin cycle, which takes place in the stroma, uses the energy carriers produced
+during the light reactions to fix carbon dioxide into three-carbon sugars.
+
+The Byzantine Empire, also referred to as the Eastern Roman Empire, was the continuation of
+the Roman Empire primarily in its eastern provinces during Late Antiquity and the Middle Ages,
+when its capital city was Constantinople. It survived the fragmentation and fall of the
+Western Roman Empire in the fifth century and continued to exist for an additional thousand
+years until the fall of Constantinople to the Ottoman Turks in 1453. During most of its
+existence, the empire remained the most powerful economic, cultural, and military force in
+Europe. The Byzantine Empire is one of the empires that lasted the longest in history. Several
+events from the fourth to sixth centuries mark the period of transition during which the Roman
+Empire's Greek East and Latin West diverged. Constantine the First reorganized the empire and
+made Constantinople the new capital.
+
+The theory of plate tectonics describes the large-scale motion of seven major plates and the
+movements of a larger number of smaller plates of Earth's lithosphere. The model builds on the
+concept of continental drift, which was first proposed by Alfred Wegener in 1912. The
+geoscientific community accepted plate tectonic theory after seafloor spreading was validated
+in the late 1950s and early 1960s. The lithosphere, which is the rigid outermost layer of
+Earth, is broken into tectonic plates. These plates are not the same as the continental and
+oceanic crust; rather, each plate is composed of both types of crust. The movement of the
+plates is driven by convection currents in the underlying asthenosphere. The boundaries
+between plates are associated with geological events such as earthquakes and the creation of
+topographic features such as mountains, volcanoes, and oceanic trenches.
+
+Antibiotics are a type of antimicrobial substance active against bacteria. They are the most
+important type of antibacterial agent for fighting bacterial infections, and antibiotic
+medications are widely used in the treatment and prevention of such infections. They may
+either kill or inhibit the growth of bacteria. A limited number of antibiotics also possess
+antiprotozoal activity. Antibiotics are not effective against viruses such as the common cold
+or influenza; drugs which inhibit growth of viruses are termed antiviral drugs rather than
+antibiotics. The first commercially available antibacterial antibiotic, Prontosil, was
+developed by a research team led by Gerhard Domagk in 1932 at the Bayer Laboratories.
+Alexander Fleming had earlier discovered penicillin in 1928, but it was not until 1942 that
+penicillin was mass-produced and made publicly available for clinical use.
+
+The global ocean covers approximately 361 million square kilometres and contains about 1.335
+billion cubic kilometres of water. It is conventionally divided into several principal oceans
+and smaller seas. The Pacific Ocean is the largest, covering an area of about 165.25 million
+square kilometres. The Atlantic is the second largest at approximately 106.46 million square
+kilometres. Ocean currents are continuous directed movements of seawater generated by various
+forces acting upon the water, including wind, the Coriolis effect, temperature differences,
+and differences in salinity. Thermohaline circulation, often described as the global ocean
+conveyor belt, is a deep ocean current driven by density differences caused by variations in
+temperature and salinity. These currents play a crucial role in regulating Earth's climate by
+distributing thermal energy from the equatorial regions to the polar regions.
+
+The Turing machine is a mathematical model of computation describing an abstract machine that
+manipulates symbols on a strip of tape according to a table of rules. Despite the model's
+simplicity, it is capable of implementing any computer algorithm. The machine was invented in
+1936 by Alan Turing, who called it an automatic machine. Turing machines are central objects
+of study in the theory of computation. The concept of the universal Turing machine, which can
+simulate any other Turing machine, was an important step in the development of the modern
+stored-program computer. Turing also introduced the concept of computability: a function is
+computable if there exists a Turing machine that computes it. This led to the formalization
+of the Church-Turing thesis, which states that any effectively calculable function can be
+computed by a Turing machine. The halting problem, first proved undecidable by Turing, showed
+fundamental limits on what can be computed.

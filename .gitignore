@@ -1,0 +1,15 @@
+matrices/
+__pycache__/
+
+.env
+.env.deploy
+
+.venv/
+remote_results/
+results_old/
+results/
+
+*.lock
+*.pdf
+*.log
+*.pt
