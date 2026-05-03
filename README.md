@@ -1,5 +1,7 @@
 # Spectral Anti-Concentration in Language Model Representations
 
+**Pratyush Acharya, Nuraj Rimal, Habish Dhakal**
+
 > **TL;DR** — Concept directions in LLM residual streams preferentially encode in the *low-variance eigenspectral tail* of language-filtered covariance matrices, while static unembedding vectors concentrate in high-variance directions.
 > This dual geometry reflects a functional rotation: syntax preferentially encodes in the high-variance subspace, forcing semantic concepts to "whisper" in the spectral tail to avoid grammatical interference. We validate these findings across 17 models using three independent extraction methods, and also definitively show that Whitened Causal Alignment (WCA) provides no geometric advantage for cross-lingual transport.
 
@@ -198,7 +200,7 @@ If you use this code or data in your research, please cite:
 ```bibtex
 @article{acharya2026concepts,
   title={Concepts Whisper While Syntax Shouts: Spectral Anti-Concentration and the Dual Geometry of Transformer Representations},
-  author={Acharya, Pratyush},
+  author={Acharya, Pratyush and Rimal, Nuraj and Dhakal, Habish},
   year={2026}
 }
 ```
